@@ -7,7 +7,7 @@ doi: 10.1109/LCOMM.2018.2885303
 ## BibTeX
 
 ```
-@ARTICLE{8565946, 
+@ARTICLE{Do_LCOMM_2019, 
 author={T.-N. Do and V.-D. Nguyen and O.-S. Shin and B. An}, 
 journal={IEEE Communications Letters}, 
 title={Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks}, 
