@@ -1,3 +1,6 @@
+## Note:
+This code was tested on my computer and found to be error-free. Please practise using YALMIP and solvers such as SPDT-3, MOSEK, and others before running the code. Thank you very much.
+
 ## Paper
 Tri-Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin, and Beongku An, "Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks," *IEEE Communications Letters*, 2018
 doi: 10.1109/LCOMM.2018.2885303 
@@ -19,5 +22,3 @@ doi={10.1109/LCOMM.2018.2885303},
 ISSN={1089-7798}, 
 month={},}
 ```
-## Note:
-This code was tested on my computer and found to be error-free. Please practise using YALMIP and solvers such as SPDT-3, MOSEK, and others before running the code. Thank you very much.
