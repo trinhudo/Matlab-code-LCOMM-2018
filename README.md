@@ -19,5 +19,5 @@ doi={10.1109/LCOMM.2018.2885303},
 ISSN={1089-7798}, 
 month={},}
 ```
-## Wishes
-If you find any error in the code, please let me know via email ```dotrinhu@gmail.com```, we will fix it together. If you think the code is useful, please cite the paper. Thank you.
+## Note:
+This code was tested on my computer and found to be error-free. Please practise using YALMIP and solvers such as SPDT-3, MOSEK, and others before running the code. Thank you very much.
